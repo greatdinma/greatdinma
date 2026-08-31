@@ -13,7 +13,7 @@ CGAN-generated synthetic borrower profiles outperformed SMOTE-NC oversampling on
 attribution parity and cross-validated generalization — evidence that resampling rebalances class
 priors without displacing a protected attribute from a model's learned representation, while
 generative augmentation at the pre-processing layer does. Bias reduced, not eliminated.
-Full dissertation: [(https://scholarspace.library.gwu.edu/concern/gw_etds/9k41zf35n?locale=it)].
+Full dissertation: [(https://scholarspace.library.gwu.edu/etd/9k41zf35n)].
 
 
 I also advise doctoral candidates in GWU's AI/ML program on dissertation research — experimental
